@@ -1,4 +1,4 @@
-# Public Discussion on Publishing Reform
+# [Public Discussion on Publishing Reform](https://gitlab.com/publishing-reform/discussion)
 
 #### [The list of all discussion topics](https://gitlab.com/publishing-reform/discussion/issues)
 
