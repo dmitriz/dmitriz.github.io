@@ -104,5 +104,4 @@ To upload a new file, click on the pull-down menu `+` on [the main project page]
 in the navigation bar above (3rd navigation row below the description) and select `Upload file`.
 
 ### Formatting
-For advanced formatting, title/subtitle structure, itemization, images, videos, mathematics formulas and much more,
-use the Markdown language https://docs.gitlab.com/ee/user/markdown.html
+For advanced formatting, title/subtitle structure, itemization, images, videos, mathematics formulas and much more, use the [Markdown language](https://docs.gitlab.com/ee/user/markdown.html).
